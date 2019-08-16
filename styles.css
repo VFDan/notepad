@@ -4,4 +4,11 @@
   border: 0; 
   font-size: 35px;
   font-family: 'Source Code Pro', monospace;
+  resize: none;
+}
+* {
+  margin: none;
+  padding: none;
+  width: 100%;
+  height: 100%;
 }

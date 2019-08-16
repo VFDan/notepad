@@ -1,1 +1,22 @@
-<link rel="icon" href="Notepad.png"><title>Notepad</title><textarea id="textarea" onkeyup="localStorage.setItem('content', document.getElementById('textarea').value)" autocomplete="off" autocorrect="off" autocapitalize="off" spellcheck="false" autofocus style="width: 100%; height: 100%; border: 0; font-size: 35px; font-family: sans"></textarea><script>document.getElementById('textarea').value = localStorage.getItem('content')</script>
+!doctype HTML>
+<html>
+	<head>
+    <meta charset="UTF-8">
+		<link rel="icon" href="Notepad.png">
+		<title>Notepad</title>
+		<link href="https://fonts.googleapis.com/css?family=Source+Code+Pro&display=swap&subset=latin-ext" rel="stylesheet"> 
+		<style>
+			#textarea {
+				width: 100%; 
+				height: 100%; 
+				border: 0; 
+				font-size: 35px;
+				font-family: 'Source Code Pro', monospace;
+			}
+		</style>
+	</head>
+	<body>
+		<textarea id="textarea" onkeyup="localStorage.setItem('content', document.getElementById('textarea').value)" autocomplete="off" autocorrect="off" autocapitalize="off" spellcheck="false" autofocus></textarea>
+		<script>document.getElementById('textarea').value = localStorage.getItem('content')</script>
+	</body>
+</html>

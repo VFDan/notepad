@@ -1,5 +1,5 @@
 # Notepad
-[![GitHub license](https://img.shields.io/github/license/VFDan/Notepad?color=0cc&label=License&style=flat-square)](https://github.com/VFDan/Notepad/blob/master/LICENSE)
+[![GitHub license](https://img.shields.io/github/license/VFDan/notepad?color=0cc&label=License&style=flat-square)](https://github.com/VFDan/notepad/blob/master/LICENSE) [![GitHub stars](https://img.shields.io/github/stars/VFDan/notepad?label=Stars&style=flat-square)](https://github.com/VFDan/notepad/stargazers)
 ## What is this?
 This is a Unicode notepad which saves what you typed.
 ## Does it record what I typed?

@@ -6,7 +6,7 @@
   font-family: 'Source Code Pro', monospace;
   resize: none;
 }
-*:not(a) {
+body, textarea {
   margin: 0;
   padding: 0;
   width: 100%;

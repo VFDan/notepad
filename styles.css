@@ -17,4 +17,8 @@
   bottom: 0;
   right: 0;
   color: #F5F5DCAA;
+  text-decoration:none;
+}
+#help:hover {
+  color: #FAFAE1;
 }

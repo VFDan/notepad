@@ -1,6 +1,5 @@
 #textarea {
-  width: 99%!important; 
-  height: 99%!important; 
+  display: block;
   border: 0; 
   font-size: 35px;
   font-family: 'Source Code Pro', monospace;

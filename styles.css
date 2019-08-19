@@ -17,7 +17,7 @@ body, textarea {
   font-size: 30px;
   position: fixed;
   bottom: 0;
-  right: 4px; /*Account for the scrollbar*/
+  right: 20px; /*Account for the scrollbar*/
   color: #AAAA;
   text-decoration:none;
 }

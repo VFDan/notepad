@@ -1,5 +1,5 @@
 document.getElementById('textarea').value = localStorage.getItem('content');
-if (typeof(localStorage.getItem('dark')) === "undefined") {
+if (localStorage.getItem('dark') = null) {
   localStorage.setItem('dark', false);
 }
 

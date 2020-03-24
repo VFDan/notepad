@@ -1,4 +1,4 @@
-document.getElementById('textarea').value = localStorage.getItem('content') || "";
+document.getElementById('textarea').value = localStorage.getItem('content') || "Type here...";
 if (localStorage.getItem('dark') == null) {
   localStorage.setItem('dark', false);
 }

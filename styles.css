@@ -8,8 +8,8 @@
   resize: none;
 }
 .dark #textarea {
-  background-color: #111;
-  color: #EEE;
+  background-color: #181a1b;
+  color: #e8e6e3;
 }
 body, textarea {
   margin: 0;
@@ -33,4 +33,7 @@ body, textarea {
 
 #toggle {
   left:0!important;
+}
+.dark {
+  scrollbar-color: #2a2c2e #1c1e1f;
 }

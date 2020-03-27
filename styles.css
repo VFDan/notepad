@@ -3,7 +3,7 @@
   width: 100%;
   min-height: 100vh;
   border: 0; 
-  font-size: 2.58rem;
+  font-size: 3rem;
   font-family: 'Source Code Pro', monospace;
   resize: none;
 }
@@ -18,7 +18,7 @@ body, textarea {
   height: 100%;
 }
 #help {
-  font-size: 2rem;
+  font-size: 2.25rem;
   position: fixed;
   bottom: 0;
   right: 20px; /*Account for the scrollbar*/
@@ -26,9 +26,9 @@ body, textarea {
   font-weight: bold;
   font-family: 'Quattrocento', serif;
 }
-.light #help, .dark #help:hover {
+.dark #help, .light #help:hover {
   color: #AAAA;
 }
-.light #help:hover, .dark #help {
+.dark #help:hover, .light #help {
   color: #555F;
 }

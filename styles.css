@@ -25,10 +25,9 @@ body, textarea {
   text-decoration:none;
   font-weight: bold;
   font-family: 'Quattrocento', serif;
-}
-.dark #help, .light #help:hover {
+#help {
   color: #0d93d7;
 }
-.dark #help:hover, .light #help {
+#help:hover {
   color: #0f5477;
 }

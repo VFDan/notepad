@@ -24,6 +24,7 @@ body, textarea {
   right: 20px; /*Account for the scrollbar*/
   text-decoration:none;
   font-weight: bold;
+  font-family: 'Quattrocento', serif;
 }
 .light #help, .dark #help:hover {
   color: #AAAA;

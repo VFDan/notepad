@@ -21,7 +21,7 @@ body, textarea {
   font-size: 2.25rem;
   position: fixed;
   bottom: 0;
-  right: 20px; /*Account for the scrollbar*/
+  right: 20px; /* Account for the scrollbar if there is one */
   text-decoration:none;
   font-weight: bold;
   font-family: 'Quattrocento', serif;

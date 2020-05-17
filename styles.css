@@ -11,7 +11,7 @@
   background-color: #181a1b;
   color: #e8e6e3;
 }
-body, textarea {
+body, #textarea {
   margin: 0;
   padding: 0;
   width: 100%;
